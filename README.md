@@ -1,0 +1,2 @@
+# blog
+lexicon blog project
